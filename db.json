@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "What is the capital of France?",
+      "first": "Berlin",
+      "second": "Paris",
+      "third": "London",
+      "fourth": "Rome",
+      "correct": "Paris"
+    },
+    {
+      "number": 2,
+      "text": "Which planet is known as the Red Planet?",
+      "first": "Mars",
+      "second": "Venus",
+      "third": "Jupiter",
+      "fourth": "Saturn",
+      "correct": "Mars"
+    },
+    {
+      "number": 3,
+      "text": "What is the largest mammal on Earth?",
+      "first": "Elephant",
+      "second": "Blue Whale",
+      "third": "Giraffe",
+      "fourth": "Tiger",
+      "correct": "Blue Whale"
+    },
+    {
+      "number": 4,
+      "text": "Who painted the Mona Lisa?",
+      "first": "Vincent van Gogh",
+      "second": "Leonardo da Vinci",
+      "third": "Pablo Picasso",
+      "fourth": "Michelangelo",
+      "correct": "Leonardo da Vinci"
+    },
+    {
+      "number": 5,
+      "text": "What is the chemical symbol for water?",
+      "first": "O2",
+      "second": "CO2",
+      "third": "H2O",
+      "fourth": "N2",
+      "correct": "H2O"
+    }
+  ]
+}
